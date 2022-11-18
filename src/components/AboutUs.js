@@ -1,4 +1,5 @@
 import React from "react";
+import { Outlet } from "react-router-dom";
 
 const AboutUs = () => {
   return (
@@ -15,6 +16,7 @@ const AboutUs = () => {
         Increased size means we can offer even better value
       </p>
       <p>We take pride in providing straightforward, good value food.</p>
+
     </div>
   );
 };
