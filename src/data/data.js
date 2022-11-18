@@ -28,3 +28,4 @@ export const people = [
   { id: "7", fullName: "Ollie Low", bio: "Ollie runs the cafe in Falkirk" },
   { id: "8", fullName: "Amy Hope", bio: "Amylooks after the Stirling branch" },
 ];
+ 

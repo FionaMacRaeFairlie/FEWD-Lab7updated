@@ -17,3 +17,4 @@ const Person = ({ people }) => {
 };
 
 export default Person;
+ 

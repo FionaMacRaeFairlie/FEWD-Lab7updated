@@ -16,5 +16,5 @@ const People = ({ people }) => {
     </>
   );
 };
-
+ 
 export default People;
