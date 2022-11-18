@@ -8,7 +8,7 @@ import Person from "./components/Person";
 import { people } from "./data/data";
 
 function App() {
-  return (
+  return (  
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Navigation />}>
@@ -24,3 +24,4 @@ function App() {
   );
 }
 export default App;
+ 
